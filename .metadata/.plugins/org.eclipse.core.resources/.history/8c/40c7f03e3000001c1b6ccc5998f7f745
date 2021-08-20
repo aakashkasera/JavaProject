@@ -1,0 +1,10 @@
+package com.app.login.servie;
+
+import com.app.exception.BusinessException;
+
+public interface CustomerLoginService {
+	
+	public boolean isValidEmailId(String emailId) throws BusinessException;
+	public boolean isValidpassword(String password) throws BusinessException;
+
+}

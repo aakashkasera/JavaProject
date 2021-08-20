@@ -1,0 +1,51 @@
+package com.app;
+
+import java.util.*;
+
+import com.app.dao.PlayerDAO;
+import com.app.dao.impl.PlayerDAOImpl;
+import com.app.exception.BusinessException;
+import com.app.model.Player;
+
+public class PlayerMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		PlayerDAO playerDAO=new PlayerDAOImpl();
+		
+		try {
+			List<Player> playerList=playerDAO.getAllPlayers();
+			for(Player player:playerList)
+			{
+				System.out.println(player);
+			}
+		} catch (BusinessException e) {
+			System.out.println(e.getMessage());	
+			
+		}
+		
+/*		Player player=new Player(102, "msd", 35, "ranchi", "M", "Cricket", 6666666666L);
+		
+		try {
+			if(playerDAO.createPlayer(player)==1)
+			{
+				System.out.println("Player created succesfully with below details");
+				System.out.println(player);
+			}
+		} catch (BusinessException e) {
+			System.out.println(e.getMessage());
+		}
+*/
+/*		try {
+			if(playerDAO.updatePlayer(102, 7777777L)==1)
+			{
+				System.out.println("Player Updated Successfully");
+				
+			}
+		} catch (BusinessException e) {
+			System.out.println(e.getMessage());
+		}
+
+*/	}
+
+}

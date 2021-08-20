@@ -1,0 +1,57 @@
+[main] 2021-08-18 21:36:51 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 21:36:51 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 21:36:51 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 21:36:51 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 21:36:51 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 21:36:51 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 21:36:51 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 21:36:51 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 21:36:57 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 21:37:11 ERROR com.app.dao.impl.CustomerLoginDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'emailId' in 'field list'
+[main] 2021-08-18 21:37:12 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 21:37:12 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 21:37:12 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 21:37:12 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 21:37:12 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 21:37:12 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 21:37:12 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 21:42:07 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 21:42:07 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 21:42:07 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 21:42:07 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 21:42:07 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 21:42:07 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 21:42:07 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 21:42:07 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 21:42:10 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 21:42:21 ERROR com.app.dao.impl.CustomerLoginDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'emailId' in 'field list'
+[main] 2021-08-18 21:42:21 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 21:42:21 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 21:42:21 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 21:42:21 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 21:42:21 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 21:42:21 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 21:42:21 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 21:43:31 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 21:43:31 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 21:43:31 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 21:43:31 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 21:43:31 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 21:43:31 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 21:43:31 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 21:43:31 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 21:43:34 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 21:43:43 ERROR com.app.dao.impl.CustomerLoginDAOImpl  - java.sql.SQLSyntaxErrorException: Table 'shoppingapp.player' doesn't exist
+[main] 2021-08-18 21:43:43 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 21:43:43 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 21:43:43 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 21:43:43 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 21:43:43 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 21:43:43 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 21:43:43 INFO  com.app.Main  - Please enter your choice(1-4)

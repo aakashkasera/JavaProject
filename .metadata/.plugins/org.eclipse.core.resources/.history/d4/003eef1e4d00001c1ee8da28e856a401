@@ -1,0 +1,85 @@
+package com.app;
+
+import java.util.Scanner;
+
+import org.apache.log4j.Logger;
+
+import com.app.exception.BusinessException;
+import com.app.login.service.CustomerLoginService;
+import com.app.login.service.impl.CustomerLoginServiceImpl;
+
+public class Main {
+	private static Logger log=Logger.getLogger(Main.class);
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner scanner = new Scanner(System.in);
+		log.info("Welcome to Shopping app");
+		log.info("==========================================");
+		
+		int ch=0;
+		do {
+			
+			log.info("\nMain menu");
+			log.info("1) Login a Customer");
+			log.info("2) Login a Employee");
+			log.info("3) Register as Customer");
+			log.info("4) EXIT ");
+			log.info("Please enter your choice(1-4)");
+			
+			try {
+				ch = Integer.parseInt(scanner.nextLine());
+			} catch (NumberFormatException e) {
+			}
+			
+			switch(ch) {
+			
+			case 1:
+				log.info("Enter email id:");
+				String emailId=scanner.nextLine();
+				CustomerLoginService customerLoginService=new CustomerLoginServiceImpl();
+				Boolean b=false;
+				try {
+					b = customerLoginService.isValidEmailId(emailId);
+				} catch (BusinessException e) {
+					// TODO Auto-generated catch block
+					//e.printStackTrace();
+					System.out.println(e.getMessage());
+				}
+				if(b) {
+					
+					log.info("Enter Password :");
+				String password=scanner.nextLine();
+				try {
+					b = customerLoginService.isValidpassword(password);
+				} catch (BusinessException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				log.info("login succssfully");
+				}
+					
+				log.info("Under construction");
+				break;
+			case 2:
+				log.info("Under construction");
+				break;
+			case 3:
+				log.info("Under construction");
+				break;
+			case 4:
+				log.info("Under construction");
+				break;
+			default:
+				log.info("Invalid ..... choose only number between 1-4");;
+				break;
+			}
+			
+		}while(ch!=4);
+		
+		
+		
+	}
+
+}

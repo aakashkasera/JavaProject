@@ -1,0 +1,10 @@
+package com.app.dao;
+
+import com.app.exception.BusinessException;
+
+public interface EmployeeLoginDAO {
+	
+	public boolean isValidEmailId(String emailId) throws BusinessException;
+	public boolean isValidpassword(String password) throws BusinessException;
+
+}

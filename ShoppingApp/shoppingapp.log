@@ -1,0 +1,1718 @@
+[main] 2021-08-18 21:47:22 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 21:47:22 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 21:47:22 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 21:47:22 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 21:47:22 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 21:47:22 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 21:47:22 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 21:47:22 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 21:47:25 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 21:47:37 ERROR com.app.dao.impl.CustomerLoginDAOImpl  - java.sql.SQLSyntaxErrorException: Table 'shoppingapp.player' doesn't exist
+[main] 2021-08-18 21:47:37 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 21:47:37 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 21:47:37 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 21:47:37 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 21:47:37 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 21:47:37 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 21:47:37 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:00:45 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:00:45 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:00:45 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:00:45 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:00:45 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:00:45 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:00:45 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:00:45 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:00:55 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:00:55 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:00:55 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:00:55 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:00:55 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:00:55 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:00:55 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:00:55 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:01:03 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:01:03 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:01:03 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:01:03 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:01:03 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:01:03 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:01:03 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:01:03 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:01:06 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 22:01:14 ERROR com.app.dao.impl.CustomerLoginDAOImpl  - java.sql.SQLSyntaxErrorException: Table 'shoppingapp.player' doesn't exist
+[main] 2021-08-18 22:01:14 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 22:01:14 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:01:14 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:01:14 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:01:14 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:01:14 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:01:14 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:05:40 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:05:40 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:05:40 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:05:40 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:05:40 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:05:40 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:05:40 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:05:40 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:05:47 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 22:05:54 ERROR com.app.dao.impl.CustomerLoginDAOImpl  - java.sql.SQLSyntaxErrorException: Table 'shoppingapp.shoppingapp' doesn't exist
+[main] 2021-08-18 22:05:54 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 22:05:54 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:05:54 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:05:54 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:05:54 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:05:54 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:05:54 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:07:27 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:07:27 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:07:27 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:07:27 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:07:27 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:07:27 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:07:27 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:07:27 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:07:30 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 22:07:38 INFO  com.app.Main  - valid email id
+[main] 2021-08-18 22:07:38 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 22:07:38 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:07:38 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:07:38 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:07:38 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:07:38 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:07:38 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:22:29 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:22:29 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:22:29 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:22:29 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:22:29 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:22:29 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:22:29 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:22:29 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:26:09 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:26:09 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:26:09 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:26:09 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:26:09 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:26:09 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:26:09 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:26:09 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:26:13 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:26:13 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:26:13 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:26:13 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:26:13 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:26:13 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:26:13 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:26:13 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:26:19 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 22:26:27 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-18 22:26:31 INFO  com.app.Main  - login succssfully
+[main] 2021-08-18 22:26:31 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 22:26:31 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:26:31 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:26:31 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:26:31 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:26:31 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:26:31 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:26:36 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 22:26:39 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 22:26:39 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:26:39 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:26:39 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:26:39 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:26:39 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:26:39 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:30:06 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:30:06 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:30:06 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:30:06 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:30:06 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:30:06 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:30:06 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:30:06 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:30:12 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 22:30:16 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 22:30:16 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:30:16 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:30:16 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:30:16 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:30:16 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:30:16 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:30:43 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:30:43 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:30:43 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:30:43 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:30:43 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:30:43 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:30:43 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:30:43 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:30:46 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 22:30:47 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 22:30:47 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:30:47 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:30:47 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:30:47 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:30:47 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:30:47 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:33:45 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:33:45 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:33:45 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:33:45 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:33:45 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:33:45 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:33:45 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:33:45 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:33:47 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 22:33:49 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 22:33:49 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:33:49 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:33:49 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:33:49 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:33:49 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:33:49 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:34:03 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 22:34:03 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 22:34:03 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:34:03 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:34:03 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:34:03 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:34:03 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:34:03 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:34:05 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 22:34:06 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 22:34:06 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 22:34:06 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 22:34:06 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 22:34:06 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 22:34:06 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 22:34:06 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 23:23:04 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 23:23:04 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 23:23:04 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 23:23:04 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 23:23:04 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 23:23:04 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 23:23:04 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 23:23:04 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 23:23:06 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 23:23:17 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-18 23:23:18 INFO  com.app.Main  - login succssfully
+[main] 2021-08-18 23:23:18 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-18 23:23:18 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 23:23:18 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 23:23:18 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 23:23:18 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 23:23:18 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 23:23:18 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 23:23:18 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 23:23:47 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-18 23:23:47 INFO  com.app.Main  - ==========================================
+[main] 2021-08-18 23:23:47 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 23:23:47 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 23:23:47 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 23:23:47 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 23:23:47 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 23:23:47 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 23:23:48 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-18 23:23:57 INFO  com.app.Main  - 
+Enter Password :
+[main] 2021-08-18 23:23:58 INFO  com.app.Main  - login succssfully
+[main] 2021-08-18 23:23:58 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-18 23:23:58 INFO  com.app.Main  - Under construction
+[main] 2021-08-18 23:23:58 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-18 23:23:58 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-18 23:23:58 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-18 23:23:58 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-18 23:23:58 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-18 23:23:58 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 14:30:42 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 14:30:42 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 14:30:42 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 14:30:42 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 14:30:42 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 14:30:42 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 14:30:42 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 14:30:42 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 14:30:45 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 14:31:05 INFO  com.app.Main  - 
+Enter Password :
+[main] 2021-08-19 14:31:05 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 14:31:05 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 14:31:05 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 14:31:05 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 14:31:05 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 14:31:05 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 14:31:18 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 14:31:18 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 14:31:18 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 14:31:18 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 14:31:18 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 14:31:18 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 14:31:18 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 14:31:23 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-19 14:31:28 INFO  com.app.Main  - There are 1note 8
+[main] 2021-08-19 14:31:28 INFO  com.app.Main  - Product [id=1, name=note 8, category=Mobile, price=10000, manufacturerName=MI]
+[main] 2021-08-19 14:31:28 INFO  com.app.Main  - by name under construction
+[main] 2021-08-19 14:31:28 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 14:31:28 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 14:31:28 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 14:31:28 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 14:31:28 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 14:31:28 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 14:31:28 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 14:50:16 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 14:50:16 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 14:50:16 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 14:50:16 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 14:50:16 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 14:50:16 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 14:50:16 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 14:50:16 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 14:50:22 INFO  com.app.Main  - Under construction
+[main] 2021-08-19 14:50:22 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 14:50:22 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 14:50:22 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 14:50:22 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 14:50:22 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 14:50:22 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 14:50:26 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 14:50:37 INFO  com.app.Main  - Under construction
+[main] 2021-08-19 14:50:37 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 14:50:37 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 14:50:37 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 14:50:37 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 14:50:37 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 14:50:37 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 14:50:51 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 14:51:01 INFO  com.app.Main  - 
+Enter Password :
+[main] 2021-08-19 14:51:07 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 14:51:07 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 14:51:07 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 14:51:07 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 14:51:07 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 14:51:07 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 14:51:17 INFO  com.app.Main  - Thanks
+[main] 2021-08-19 14:51:17 INFO  com.app.Main  - Under construction
+[main] 2021-08-19 14:51:17 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 14:51:17 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 14:51:17 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 14:51:17 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 14:51:17 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 14:51:17 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 14:51:22 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 14:51:28 INFO  com.app.Main  - 
+Enter Password :
+[main] 2021-08-19 14:51:33 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 14:51:34 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 14:51:34 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 14:51:34 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 14:51:34 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 14:51:34 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 14:51:37 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 14:51:37 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 14:51:37 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 14:51:37 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 14:51:37 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 14:51:37 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 14:51:37 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 14:51:39 INFO  com.app.Main  - Enter Manufacturer Name :
+[main] 2021-08-19 14:51:43 INFO  com.app.Main  - by manufacturerName under construction
+[main] 2021-08-19 14:51:43 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 14:51:43 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 14:51:43 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 14:51:43 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 14:51:43 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 14:51:43 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 14:51:43 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 14:51:57 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-19 14:52:00 INFO  com.app.Main  - 1 - note 8
+[main] 2021-08-19 14:52:00 INFO  com.app.Main  - Product id = 1, name = note 8, category = Mobile, price = 10000, manufacturerName = MI
+[main] 2021-08-19 14:52:00 INFO  com.app.Main  - by name under construction
+[main] 2021-08-19 14:52:00 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 14:52:00 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 14:52:00 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 14:52:00 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 14:52:00 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 14:52:00 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 14:52:00 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 14:52:12 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-19 14:52:28 INFO  com.app.Main  - 1 - NOTE 8
+[main] 2021-08-19 14:52:28 INFO  com.app.Main  - Product id = 1, name = note 8, category = Mobile, price = 10000, manufacturerName = MI
+[main] 2021-08-19 14:52:28 INFO  com.app.Main  - by name under construction
+[main] 2021-08-19 14:52:28 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 14:52:28 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 14:52:28 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 14:52:28 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 14:52:28 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 14:52:28 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 14:52:28 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 14:57:01 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 14:57:01 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 14:57:01 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 14:57:01 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 14:57:01 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 14:57:01 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 14:57:01 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 14:57:01 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 14:57:02 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 14:57:21 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 14:57:29 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-19 14:57:32 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 14:57:32 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 14:57:32 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 14:57:32 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 14:57:32 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 14:57:32 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 14:57:35 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 14:57:35 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 14:57:35 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 14:57:35 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 14:57:35 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 14:57:35 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 14:57:35 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 14:57:37 INFO  com.app.Main  - Enter Manufacturer Name :
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - by manufacturerName under construction
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:03:52 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 15:03:52 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 15:03:52 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 15:03:52 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 15:03:52 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 15:03:52 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 15:03:52 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 15:03:52 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 15:03:54 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 15:04:02 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-19 15:04:11 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 15:04:12 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 15:04:12 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 15:04:12 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 15:04:12 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 15:04:12 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 15:04:14 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:04:14 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:04:14 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:04:14 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:04:14 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:04:14 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:04:14 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:04:16 INFO  com.app.Main  - Enter Manufacturer Name :
+[main] 2021-08-19 15:04:18 INFO  com.app.Main  - 1 - mi
+[main] 2021-08-19 15:04:18 INFO  com.app.Main  - Product id = 1, name = note 8, category = Mobile, price = 10000, manufacturerName = MI
+[main] 2021-08-19 15:04:18 INFO  com.app.Main  - by manufacturerName under construction
+[main] 2021-08-19 15:04:18 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:04:18 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:04:18 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:04:18 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:04:18 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:04:18 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:04:18 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:06:24 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 15:06:24 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 15:06:24 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 15:06:24 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 15:06:24 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 15:06:24 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 15:06:24 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 15:06:24 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 15:06:26 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 15:06:33 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-19 15:06:35 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 15:06:36 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 15:06:36 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 15:06:36 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 15:06:36 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 15:06:36 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 15:06:37 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:06:37 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:06:37 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:06:37 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:06:37 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:06:37 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:06:37 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:06:42 INFO  com.app.Main  - Enter Manufacturer Name :
+[main] 2021-08-19 15:06:46 INFO  com.app.Main  - 1 - mi
+[main] 2021-08-19 15:06:46 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-19 15:06:46 INFO  com.app.Main  - by manufacturerName under construction
+[main] 2021-08-19 15:06:46 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:06:46 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:06:46 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:06:46 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:06:46 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:06:46 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:06:46 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:07:31 INFO  com.app.Main  - view cart under construction
+[main] 2021-08-19 15:07:31 INFO  com.app.Main  - Thanks
+[main] 2021-08-19 15:07:31 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:07:31 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:07:31 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:07:31 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:07:31 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:07:31 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:07:31 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:07:44 INFO  com.app.Main  - Back to previous menu
+[main] 2021-08-19 15:07:44 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:07:44 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:07:44 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:07:44 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:07:44 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:07:44 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:07:44 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:09:38 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 15:09:38 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 15:09:38 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 15:09:38 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 15:09:38 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 15:09:38 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 15:09:38 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 15:09:38 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 15:09:39 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 15:09:46 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-19 15:09:47 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 15:09:47 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 15:09:47 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 15:09:47 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 15:09:47 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 15:09:47 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 15:09:53 INFO  com.app.Main  - Thanks
+[main] 2021-08-19 15:09:53 INFO  com.app.Main  - Under construction
+[main] 2021-08-19 15:09:53 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 15:09:53 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 15:09:53 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 15:09:53 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 15:09:53 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 15:09:53 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 15:09:57 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 15:10:02 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-19 15:10:05 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 15:10:05 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 15:10:05 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 15:10:05 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 15:10:05 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 15:10:05 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 15:10:08 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:10:08 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:10:08 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:10:08 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:10:08 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:10:08 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:10:08 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:10:11 INFO  com.app.Main  - Back to previous menu
+[main] 2021-08-19 15:10:11 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:10:11 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:10:11 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:10:11 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:10:11 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:10:11 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:10:11 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:15:22 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 15:15:22 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 15:15:22 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 15:15:22 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 15:15:22 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 15:15:22 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 15:15:22 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 15:15:22 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 15:15:25 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 15:15:33 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-19 15:15:35 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 15:15:35 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 15:15:35 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 15:15:35 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 15:15:35 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 15:15:35 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 15:15:38 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:15:38 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:15:38 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:15:38 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:15:38 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:15:38 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:15:38 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:15:40 INFO  com.app.Main  - Back to previous menu
+[main] 2021-08-19 15:15:40 INFO  com.app.Main  - Search product under construction
+[main] 2021-08-19 15:15:40 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 15:15:40 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 15:15:40 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 15:15:40 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 15:16:04 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:16:04 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:16:04 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:16:04 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:16:04 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:16:04 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:16:04 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:16:13 INFO  com.app.Main  - view cart under construction
+[main] 2021-08-19 15:16:13 INFO  com.app.Main  - Thanks
+[main] 2021-08-19 15:16:13 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 15:16:13 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 15:16:13 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 15:16:13 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 15:16:13 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 15:16:13 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 15:16:13 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 15:16:16 INFO  com.app.Main  - Thanks
+[main] 2021-08-19 15:16:16 INFO  com.app.Main  - Search product under construction
+[main] 2021-08-19 15:16:16 INFO  com.app.Main  - Under construction
+[main] 2021-08-19 15:16:16 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 15:16:16 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 15:16:16 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 15:16:16 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 15:16:16 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 15:16:16 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 18:07:15 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 18:07:15 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 18:07:15 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 18:07:15 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 18:07:15 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 18:07:15 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 18:07:15 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 18:07:15 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 18:07:20 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 18:07:23 INFO  com.app.Main  - Under construction
+[main] 2021-08-19 18:07:23 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 18:07:23 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 18:07:23 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 18:07:23 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 18:07:23 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 18:07:23 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 18:07:37 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 18:08:05 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-19 18:08:08 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 18:08:08 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 18:08:08 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 18:08:08 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 18:08:08 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 18:08:08 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 18:08:18 INFO  com.app.Main  - Thanks
+[main] 2021-08-19 18:08:18 INFO  com.app.Main  - Under construction
+[main] 2021-08-19 18:08:18 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 18:08:18 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 18:08:18 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 18:08:18 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 18:08:18 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 18:08:18 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 18:08:27 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 18:08:37 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-19 18:08:39 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 18:08:39 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-19 18:08:39 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-19 18:08:39 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-19 18:08:39 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-19 18:08:39 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-19 18:08:42 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 18:08:42 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 18:08:42 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 18:08:42 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 18:08:42 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 18:08:42 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 18:08:42 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 18:09:04 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-19 18:09:10 INFO  com.app.Main  - 1 - NOTE 8
+[main] 2021-08-19 18:09:10 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-19 18:09:10 INFO  com.app.Main  - by name under construction
+[main] 2021-08-19 18:09:10 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-19 18:09:10 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-19 18:09:10 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-19 18:09:10 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-19 18:09:10 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-19 18:09:10 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-19 18:09:10 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-19 22:08:33 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 22:08:33 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 22:08:33 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 22:08:33 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 22:08:33 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 22:08:33 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 22:08:33 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 22:08:33 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:08:36 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-19 22:08:46 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-19 22:08:50 INFO  com.app.Main  - login succssfully
+[main] 2021-08-19 22:08:50 INFO  com.app.Main  - Welcome Aakash Kasera
+[main] 2021-08-19 22:08:50 INFO  com.app.Main  - Under construction
+[main] 2021-08-19 22:08:50 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 22:08:50 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 22:08:50 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 22:08:50 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 22:08:50 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 22:08:50 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:13:15 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 22:13:15 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 22:13:15 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 22:13:15 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 22:13:15 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 22:13:15 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 22:13:15 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 22:13:15 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:13:18 INFO  com.app.Main  - Under construction
+[main] 2021-08-19 22:19:49 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 22:19:49 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 22:19:49 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 22:19:49 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 22:19:49 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 22:19:49 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 22:19:49 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 22:19:49 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:19:51 INFO  com.app.Main  - Register as New User
+[main] 2021-08-19 22:19:51 INFO  com.app.Main  - Enter EmailId :
+[main] 2021-08-19 22:19:51 INFO  com.app.Main  - Under construction
+[main] 2021-08-19 22:19:51 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 22:19:51 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 22:19:51 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 22:19:51 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 22:19:51 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 22:19:51 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:48:08 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-19 22:48:08 INFO  com.app.Main  - ==========================================
+[main] 2021-08-19 22:48:08 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-19 22:48:08 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-19 22:48:08 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-19 22:48:08 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-19 22:48:08 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-19 22:48:08 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:48:12 INFO  com.app.Main  - Register as New User
+
+[main] 2021-08-19 22:48:12 INFO  com.app.Main  - Enter EmailId :
+[main] 2021-08-19 22:48:29 INFO  com.app.Main  - Enter First Name :
+[main] 2021-08-19 22:48:35 INFO  com.app.Main  - Enter Last Name
+[main] 2021-08-20 02:03:20 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 02:03:20 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 02:03:20 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:03:20 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:03:20 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:03:20 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:03:20 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:03:20 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:03:24 INFO  com.app.Main  - Register as New User
+
+[main] 2021-08-20 02:03:24 INFO  com.app.Main  - Enter EmailId :
+[main] 2021-08-20 02:03:32 INFO  com.app.Main  - Enter First Name :
+[main] 2021-08-20 02:03:35 INFO  com.app.Main  - Enter Last Name
+[main] 2021-08-20 02:03:39 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 02:03:45 INFO  com.app.Main  - Under construction
+[main] 2021-08-20 02:03:45 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:03:45 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:03:45 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:03:45 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:03:45 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:03:45 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:05:25 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 02:05:25 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 02:05:25 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:05:25 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:05:25 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:05:25 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:05:25 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:05:25 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:05:29 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 02:05:37 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 02:05:40 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 02:05:40 INFO  com.app.Main  - Welcome ayush khatri,What you want to do?
+[main] 2021-08-20 02:05:40 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 02:05:40 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 02:05:40 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 02:05:40 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 02:05:47 INFO  com.app.Main  - Thanks
+[main] 2021-08-20 02:05:47 INFO  com.app.Main  - Under construction
+[main] 2021-08-20 02:05:47 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:05:47 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:05:47 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:05:47 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:05:47 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:05:47 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:05:52 INFO  com.app.Main  - Register as New User
+
+[main] 2021-08-20 02:05:52 INFO  com.app.Main  - Enter EmailId :
+[main] 2021-08-20 02:06:16 INFO  com.app.Main  - Enter First Name :
+[main] 2021-08-20 02:06:20 INFO  com.app.Main  - Enter Last Name
+[main] 2021-08-20 02:06:24 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 02:06:26 INFO  com.app.Main  - Customer Created Successfully with below details :
+
+[main] 2021-08-20 02:06:26 INFO  com.app.Main  - Customer [id=5, emailId=anuj@yah213com, firstName=anuj, lastName=chauhan]
+[main] 2021-08-20 02:06:26 INFO  com.app.Main  - Under construction
+[main] 2021-08-20 02:06:26 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:06:26 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:06:26 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:06:26 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:06:26 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:06:26 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:14:14 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 02:14:14 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 02:14:14 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:14:14 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:14:14 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:14:14 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:14:14 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:14:14 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:14:21 INFO  com.app.Main  - Register as New User
+
+[main] 2021-08-20 02:14:21 INFO  com.app.Main  - Enter EmailId :
+[main] 2021-08-20 02:14:29 INFO  com.app.Main  - Enter First Name :
+[main] 2021-08-20 02:14:30 INFO  com.app.Main  - Enter Last Name
+[main] 2021-08-20 02:14:31 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 02:14:33 INFO  com.app.Main  - Customer Created Successfully with below details :
+
+[main] 2021-08-20 02:14:33 INFO  com.app.Main  - Customer [id=6, emailId=akak@adad, firstName=asd, lastName=asd]
+[main] 2021-08-20 02:14:33 INFO  com.app.Main  - Under construction
+[main] 2021-08-20 02:14:33 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:14:33 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:14:33 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:14:33 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:14:33 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:14:33 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:18:03 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 02:18:03 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 02:18:03 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:18:03 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:18:03 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:18:03 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:18:03 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:18:03 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:18:04 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 02:18:10 INFO  com.app.Main  - Under construction
+[main] 2021-08-20 02:18:10 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:18:10 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:18:10 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:18:10 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:18:10 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:18:10 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:18:23 INFO  com.app.Main  - Register as New User
+
+[main] 2021-08-20 02:18:23 INFO  com.app.Main  - Enter EmailId :
+[main] 2021-08-20 02:18:26 INFO  com.app.Main  - Enter First Name :
+[main] 2021-08-20 02:18:26 INFO  com.app.Main  - Enter Last Name
+[main] 2021-08-20 02:18:27 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 02:18:30 INFO  com.app.Main  - Customer Created Successfully with below details :
+
+[main] 2021-08-20 02:18:30 INFO  com.app.Main  - Customer [id=7, emailId=asd, firstName=adf, lastName=dfa]
+[main] 2021-08-20 02:18:30 INFO  com.app.Main  - Under construction
+[main] 2021-08-20 02:18:30 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:18:30 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:18:30 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:18:30 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:18:30 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:18:30 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:24:23 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 02:24:23 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 02:24:23 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:24:23 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:24:23 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:24:23 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:24:23 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:24:23 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 02:24:25 INFO  com.app.Main  - Register as New User
+
+[main] 2021-08-20 02:24:25 INFO  com.app.Main  - Enter EmailId :
+[main] 2021-08-20 02:24:27 INFO  com.app.Main  - Enter First Name :
+[main] 2021-08-20 02:24:27 INFO  com.app.Main  - Enter Last Name
+[main] 2021-08-20 02:24:27 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 02:24:28 INFO  com.app.Main  - Under construction
+[main] 2021-08-20 02:24:28 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 02:24:28 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 02:24:28 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 02:24:28 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 02:24:28 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 02:24:28 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 09:34:20 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 09:34:20 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 09:34:20 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 09:34:20 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 09:34:20 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 09:34:20 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 09:34:20 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 09:34:20 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 09:34:22 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 09:34:29 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 09:34:32 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 09:34:33 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 09:34:33 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 09:34:33 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 09:34:33 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 09:34:33 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 09:34:35 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 09:34:35 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 09:34:35 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 09:34:35 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 09:34:35 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 09:34:35 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 09:34:35 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 09:34:38 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 09:34:41 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 09:34:41 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 09:34:59 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 09:35:03 INFO  com.app.Main  - Product 1 added to cart successfully 
+[main] 2021-08-20 09:35:03 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 09:35:03 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 09:35:19 INFO  com.app.Main  -  Back to previous Menu.
+[main] 2021-08-20 09:35:19 INFO  com.app.Main  - by category under construction
+[main] 2021-08-20 09:35:19 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 09:35:19 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 09:35:19 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 09:35:19 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 09:35:19 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 09:35:19 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 09:35:19 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 09:38:30 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 09:38:30 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 09:38:30 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 09:38:30 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 09:38:30 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 09:38:30 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 09:38:30 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 09:38:30 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 09:38:32 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 09:38:39 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 09:38:41 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 09:38:41 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 09:38:41 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 09:38:41 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 09:38:41 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 09:38:41 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 09:38:43 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 09:38:43 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 09:38:43 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 09:38:43 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 09:38:43 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 09:38:43 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 09:38:43 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 09:38:48 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-20 09:38:53 INFO  com.app.Main  - 1 - note 8
+[main] 2021-08-20 09:38:53 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 09:38:53 INFO  com.app.Main  - by name under construction
+[main] 2021-08-20 09:38:53 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 09:38:53 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 09:38:53 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 09:38:53 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 09:38:53 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 09:38:53 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 09:38:53 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 09:38:59 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 09:39:07 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 09:39:07 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 09:39:37 INFO  com.app.Main  -  Back to previous Menu.
+[main] 2021-08-20 09:39:37 INFO  com.app.Main  - by category under construction
+[main] 2021-08-20 09:39:37 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 09:39:37 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 09:39:37 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 09:39:37 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 09:39:37 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 09:39:37 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 09:39:37 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 09:39:39 INFO  com.app.Main  - Enter Manufacturer Name :
+[main] 2021-08-20 09:39:42 INFO  com.app.Main  - 1 - mi
+[main] 2021-08-20 09:39:42 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 09:39:42 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 09:39:42 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 09:39:42 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 09:39:42 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 09:39:42 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 09:39:42 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 09:39:42 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 09:46:30 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 09:46:30 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 09:46:30 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 09:46:30 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 09:46:30 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 09:46:30 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 09:46:30 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 09:46:30 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 09:46:32 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 09:46:40 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 09:46:44 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 09:46:44 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 09:46:44 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 09:46:44 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 09:46:44 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 09:46:44 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 09:46:47 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 09:46:47 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 09:46:47 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 09:46:47 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 09:46:47 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 09:46:47 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 09:46:47 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 09:46:49 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 09:46:58 INFO  com.app.Main  - Before if
+[main] 2021-08-20 09:46:58 INFO  com.app.Main  - After if
+[main] 2021-08-20 09:46:58 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 09:46:58 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 09:51:14 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 09:51:14 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 09:51:14 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 09:51:14 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 09:51:14 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 09:51:14 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 09:51:14 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 09:51:14 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 09:51:16 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 09:51:23 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 09:51:26 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 09:51:26 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 09:51:26 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 09:51:26 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 09:51:26 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 09:51:26 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 09:51:27 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 09:51:27 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 09:51:27 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 09:51:27 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 09:51:27 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 09:51:27 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 09:51:27 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 09:51:30 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 09:51:34 INFO  com.app.Main  - Before if
+[main] 2021-08-20 09:51:34 INFO  com.app.Main  - 0
+[main] 2021-08-20 09:51:34 INFO  com.app.Main  - After if
+[main] 2021-08-20 09:51:34 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 09:51:34 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 09:51:45 INFO  com.app.Main  -  Back to previous Menu.
+[main] 2021-08-20 09:51:45 INFO  com.app.Main  - by category under construction
+[main] 2021-08-20 09:51:45 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 09:51:45 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 09:51:45 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 09:51:45 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 09:51:45 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 09:51:45 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 09:51:45 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 09:51:50 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 09:51:53 INFO  com.app.Main  - Before if
+[main] 2021-08-20 09:51:53 INFO  com.app.Main  - 2
+[main] 2021-08-20 09:51:53 INFO  com.app.Main  - 2 - mobile
+[main] 2021-08-20 09:51:53 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 09:51:53 INFO  com.app.Main  - Product id = 2, name = note 9, manufacturerName = realme, category = mobile, price = 9000
+[main] 2021-08-20 09:51:53 INFO  com.app.Main  - After if
+[main] 2021-08-20 09:51:53 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 09:51:53 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 09:57:56 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 09:57:56 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 09:57:56 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 09:57:56 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 09:57:56 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 09:57:56 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 09:57:56 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 09:57:56 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 09:57:58 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 09:58:07 INFO  com.app.Main  - Under construction
+[main] 2021-08-20 09:58:07 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 09:58:07 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 09:58:07 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 09:58:07 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 09:58:07 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 09:58:07 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:02:25 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:02:25 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:02:25 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:02:25 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:02:25 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:02:25 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:02:25 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:02:25 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:02:27 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:02:33 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:02:33 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:02:34 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 10:02:34 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 10:02:34 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 10:02:34 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 10:02:34 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 10:02:36 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:02:36 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:02:36 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:02:36 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:02:36 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:02:36 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:02:36 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:02:38 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 10:02:40 INFO  com.app.Main  - No such category found
+[main] 2021-08-20 10:02:40 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:02:40 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:03:08 INFO  com.app.Main  -  Back to previous Menu.
+[main] 2021-08-20 10:03:08 INFO  com.app.Main  - by category under construction
+[main] 2021-08-20 10:03:08 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:03:08 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:03:08 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:03:08 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:03:08 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:03:08 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:03:08 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:03:10 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 10:03:13 INFO  com.app.Main  - 2 - mobile
+[main] 2021-08-20 10:03:13 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 10:03:13 INFO  com.app.Main  - Product id = 2, name = note 9, manufacturerName = realme, category = mobile, price = 9000
+[main] 2021-08-20 10:03:13 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:03:13 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:03:29 INFO  com.app.Main  - Invalid choice.... choose only number 1-2
+[main] 2021-08-20 10:03:29 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:03:29 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:03:35 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 10:03:38 INFO  com.app.Main  - Product 1 added to cart successfully 
+[main] 2021-08-20 10:03:38 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:03:38 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:06:01 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:06:01 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:06:01 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:06:01 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:06:01 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:06:01 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:06:01 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:06:01 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:06:03 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:06:08 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:06:13 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:06:13 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 10:06:13 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 10:06:13 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 10:06:13 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 10:06:13 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 10:06:14 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:06:14 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:06:14 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:06:14 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:06:14 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:06:14 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:06:14 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:06:16 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 10:06:23 INFO  com.app.Main  - 2 - mobile
+[main] 2021-08-20 10:06:23 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 10:06:23 INFO  com.app.Main  - Product id = 2, name = note 9, manufacturerName = realme, category = mobile, price = 9000
+[main] 2021-08-20 10:06:23 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:06:23 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:06:27 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 10:06:39 INFO  com.app.Main  - Product 1 added to cart successfully 
+[main] 2021-08-20 10:06:39 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:06:39 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:08:19 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:08:19 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:08:19 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:08:19 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:08:19 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:08:19 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:08:19 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:08:19 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:08:21 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:08:28 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:08:29 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:08:29 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 10:08:29 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 10:08:29 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 10:08:29 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 10:08:29 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 10:08:31 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:08:31 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:08:31 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:08:31 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:08:31 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:08:31 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:08:31 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:08:33 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 10:08:36 INFO  com.app.Main  - 2 - mobile
+[main] 2021-08-20 10:08:36 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 10:08:36 INFO  com.app.Main  - Product id = 2, name = note 9, manufacturerName = realme, category = mobile, price = 9000
+[main] 2021-08-20 10:08:36 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:08:36 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:08:39 INFO  com.app.Main  - Invalid choice.... choose only number 1-2
+[main] 2021-08-20 10:08:39 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:08:39 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:08:42 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 10:08:44 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:08:44 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:10:38 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:10:38 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:10:38 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:10:38 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:10:38 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:10:38 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:10:38 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:10:38 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:10:39 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:10:45 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:10:48 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:10:48 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 10:10:48 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 10:10:48 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 10:10:48 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 10:10:48 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 10:10:49 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:10:49 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:10:49 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:10:49 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:10:49 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:10:49 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:10:49 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:10:51 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 10:10:55 INFO  com.app.Main  - 2 - mobile
+[main] 2021-08-20 10:10:55 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 10:10:55 INFO  com.app.Main  - Product id = 2, name = note 9, manufacturerName = realme, category = mobile, price = 9000
+[main] 2021-08-20 10:10:55 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:10:55 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:10:57 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 10:11:02 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:11:02 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:14:38 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:14:38 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:14:38 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:14:38 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:14:38 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:14:38 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:14:38 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:14:38 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:14:40 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:14:49 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:14:50 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:14:51 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 10:14:51 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 10:14:51 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 10:14:51 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 10:14:51 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 10:14:52 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:14:52 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:14:52 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:14:52 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:14:52 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:14:52 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:14:52 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:14:54 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 10:14:58 INFO  com.app.Main  - 2 - mobile
+[main] 2021-08-20 10:14:58 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 10:14:58 INFO  com.app.Main  - Product id = 2, name = note 9, manufacturerName = realme, category = mobile, price = 9000
+[main] 2021-08-20 10:14:58 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:14:58 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:15:00 INFO  com.app.Main  - Invalid choice.... choose only number 1-2
+[main] 2021-08-20 10:15:00 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:15:00 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:15:07 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 10:15:14 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:15:14 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:20:33 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:20:33 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:20:33 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:20:33 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:20:33 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:20:33 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:20:33 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:20:33 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:20:35 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:20:42 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:20:42 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:20:43 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 10:20:43 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 10:20:43 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 10:20:43 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 10:20:43 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 10:20:45 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:20:45 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:20:45 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:20:45 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:20:45 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:20:45 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:20:45 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:20:48 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 10:20:51 INFO  com.app.Main  - 2 - mobile
+[main] 2021-08-20 10:20:51 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 10:20:51 INFO  com.app.Main  - Product id = 2, name = note 9, manufacturerName = realme, category = mobile, price = 9000
+[main] 2021-08-20 10:20:51 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:20:51 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:20:58 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 10:21:00 INFO  com.app.Main  - Product 1 added to cart successfully 
+[main] 2021-08-20 10:21:00 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:21:00 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:21:05 INFO  com.app.Main  -  Back to previous Menu.
+[main] 2021-08-20 10:21:05 INFO  com.app.Main  - by category under construction
+[main] 2021-08-20 10:21:05 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:21:05 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:21:05 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:21:05 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:21:05 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:21:05 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:21:05 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:21:07 INFO  com.app.Main  - Enter Category :
+[main] 2021-08-20 10:21:10 INFO  com.app.Main  - No such category found
+[main] 2021-08-20 10:21:10 INFO  com.app.Main  - by category under construction
+[main] 2021-08-20 10:21:10 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:21:10 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:21:10 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:21:10 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:21:10 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:21:10 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:21:10 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:22:21 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:22:21 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:22:21 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:22:21 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:22:21 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:22:21 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:22:21 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:22:21 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:22:27 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:22:36 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:22:36 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:22:36 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 10:22:36 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 10:22:36 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 10:22:36 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 10:22:36 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 10:22:41 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:22:41 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:22:41 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:22:41 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:22:41 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:22:41 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:22:41 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:22:45 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-20 10:22:50 INFO  com.app.Main  - 1 - note 8
+[main] 2021-08-20 10:22:50 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 10:22:50 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:22:50 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:22:59 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 10:23:06 INFO  com.app.Main  - Product 1 added to cart successfully 
+[main] 2021-08-20 10:23:06 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:23:06 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:24:09 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:24:09 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:24:09 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:24:09 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:24:09 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:24:09 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:24:09 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:24:09 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:24:10 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:24:17 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:24:22 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:24:22 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 10:24:22 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 10:24:22 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 10:24:22 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 10:24:22 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 10:24:30 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:24:30 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:24:30 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:24:30 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:24:30 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:24:30 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:24:30 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:24:35 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-20 10:24:40 INFO  com.app.Main  - 1 - note 8
+[main] 2021-08-20 10:24:40 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 10:24:40 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:24:40 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:24:43 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 10:24:47 INFO  com.app.Main  - Product 1 added to cart successfully 
+
+[main] 2021-08-20 10:24:47 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:24:47 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:24:53 INFO  com.app.Main  -  Back to previous Menu.
+[main] 2021-08-20 10:24:53 INFO  com.app.Main  - by name under construction
+[main] 2021-08-20 10:24:53 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:24:53 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:24:53 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:24:53 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:24:53 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:24:53 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:24:53 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:25:52 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:25:52 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:25:52 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:25:52 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:25:52 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:25:52 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:25:52 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:25:52 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:25:54 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:26:02 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:26:06 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:26:06 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 10:26:06 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 10:26:06 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 10:26:06 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 10:26:06 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 10:26:08 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:26:08 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:26:08 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:26:08 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:26:08 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:26:08 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:26:08 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:26:10 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-20 10:26:14 INFO  com.app.Main  - 1 - note 8
+[main] 2021-08-20 10:26:14 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 10:26:14 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:26:14 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:26:22 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 10:26:25 INFO  com.app.Main  - Product 1 added to cart successfully 
+
+[main] 2021-08-20 10:26:25 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 10:26:25 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 10:26:42 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:26:42 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:26:42 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:26:42 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:26:42 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:26:42 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:26:42 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:37:52 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:37:52 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:37:52 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:37:52 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:37:52 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:37:52 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:37:52 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:37:52 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:37:55 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:37:59 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:37:59 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:37:59 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:37:59 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:37:59 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:37:59 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:38:02 INFO  com.app.Main  - Register as New User
+
+[main] 2021-08-20 10:38:02 INFO  com.app.Main  - Enter EmailId :
+[main] 2021-08-20 10:38:10 INFO  com.app.Main  - Enter First Name :
+[main] 2021-08-20 10:38:11 INFO  com.app.Main  - Enter Last Name
+[main] 2021-08-20 10:38:15 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:38:15 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:38:15 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:38:15 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:38:15 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:38:15 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:38:15 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:38:21 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:38:34 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:38:34 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:38:34 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:38:34 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:38:34 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:38:34 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:38:57 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:39:17 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:39:17 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:39:17 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:39:17 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:39:17 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:39:17 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:39:21 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:39:32 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:39:35 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:39:35 INFO  com.app.Main  - Welcome Aakash Kasera
+[main] 2021-08-20 10:39:35 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:39:35 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:39:35 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:39:35 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:39:35 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:39:35 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:39:41 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:39:51 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:39:52 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:39:52 INFO  com.app.Main  - Welcome Aakash Kasera
+[main] 2021-08-20 10:39:52 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:39:52 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:39:52 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:39:52 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:39:52 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:39:52 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:48:09 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 10:48:09 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 10:48:09 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 10:48:09 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 10:48:09 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 10:48:09 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 10:48:09 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 10:48:09 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:48:15 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 10:48:30 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 10:48:33 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 10:48:33 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 10:48:33 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 10:48:33 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 10:48:33 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 10:48:33 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 10:48:49 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:48:49 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:48:49 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:48:49 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:48:49 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:48:49 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:48:49 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 10:48:51 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-20 10:48:53 INFO  com.app.Main  - No Such Product Name 
+[main] 2021-08-20 10:48:53 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 10:48:53 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 10:48:53 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 10:48:53 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 10:48:53 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 10:48:53 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 10:48:53 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 12:27:42 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 12:27:42 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 12:27:42 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 12:27:42 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 12:27:42 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 12:27:42 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 12:27:42 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 12:27:42 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 12:27:44 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 12:27:51 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 12:27:51 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 12:27:51 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 12:27:51 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 12:27:51 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 12:27:51 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 12:27:51 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 12:27:54 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 12:27:54 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 12:27:54 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 12:27:54 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 12:27:54 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 12:27:54 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 12:27:54 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 12:27:59 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-20 12:28:03 INFO  com.app.Main  - 1 - note 8
+[main] 2021-08-20 12:28:03 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 12:28:03 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 12:28:03 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 12:28:05 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 12:28:08 INFO  com.app.Main  - Product 1 added to cart successfully 
+
+[main] 2021-08-20 12:28:08 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 12:28:08 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 12:28:11 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 12:28:11 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 12:28:11 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 12:28:11 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 12:28:11 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 12:28:11 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 12:28:11 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 12:28:13 INFO  com.app.Main  - 
+
+[main] 2021-08-20 12:28:13 ERROR com.app.dao.impl.CustomerLoginDAOImpl  - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+[main] 2021-08-20 12:28:13 INFO  com.app.Main  - view cart under construction
+[main] 2021-08-20 12:28:13 INFO  com.app.Main  - Thanks
+[main] 2021-08-20 12:28:13 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 12:28:13 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 12:28:13 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 12:28:13 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 12:28:13 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 12:28:13 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 12:28:13 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 12:30:31 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 12:30:31 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 12:30:31 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 12:30:31 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 12:30:31 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 12:30:31 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 12:30:31 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 12:30:31 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 12:30:33 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 12:30:40 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 12:30:42 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 12:30:43 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 12:30:43 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 12:30:43 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 12:30:43 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 12:30:43 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 12:30:45 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 12:30:45 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 12:30:45 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 12:30:45 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 12:30:45 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 12:30:45 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 12:30:45 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 12:30:46 INFO  com.app.Main  - Enter Product Name :
+[main] 2021-08-20 12:30:50 INFO  com.app.Main  - 1 - note 8
+[main] 2021-08-20 12:30:50 INFO  com.app.Main  - Product id = 1, name = note 8, manufacturerName = MI, category = Mobile, price = 10000
+[main] 2021-08-20 12:30:50 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 12:30:50 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 12:30:52 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 12:30:57 INFO  com.app.Main  - Product 1 added to cart successfully 
+
+[main] 2021-08-20 12:30:57 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 12:30:57 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 12:31:00 INFO  com.app.Main  - Enter Product Id to add it to cart
+[main] 2021-08-20 12:31:01 INFO  com.app.Main  - Product 2 added to cart successfully 
+
+[main] 2021-08-20 12:31:01 INFO  com.app.Main  - 1) Add any product to cart.
+[main] 2021-08-20 12:31:01 INFO  com.app.Main  - 2) Previous Menu
+[main] 2021-08-20 12:31:07 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 12:31:07 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 12:31:07 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 12:31:07 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 12:31:07 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 12:31:07 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 12:31:07 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 12:31:26 INFO  com.app.Main  - 
+
+[main] 2021-08-20 12:31:27 ERROR com.app.dao.impl.CustomerLoginDAOImpl  - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+[main] 2021-08-20 12:31:27 INFO  com.app.Main  - view cart under construction
+[main] 2021-08-20 12:31:27 INFO  com.app.Main  - Thanks
+[main] 2021-08-20 12:31:27 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 12:31:27 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 12:31:27 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 12:31:27 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 12:31:27 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 12:31:27 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 12:31:27 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 12:32:08 INFO  com.app.Main  - Welcome to Shopping app
+[main] 2021-08-20 12:32:08 INFO  com.app.Main  - ==========================================
+[main] 2021-08-20 12:32:08 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 12:32:08 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 12:32:08 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 12:32:08 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 12:32:08 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 12:32:08 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 12:32:11 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 12:32:17 INFO  com.app.Main  - Under construction
+[main] 2021-08-20 12:32:17 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 12:32:17 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 12:32:17 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 12:32:17 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 12:32:17 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 12:32:17 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 12:32:22 INFO  com.app.Main  - Enter email id:
+[main] 2021-08-20 12:32:33 INFO  com.app.Main  - Enter Password :
+[main] 2021-08-20 12:32:36 INFO  com.app.Main  - login succssfully
+[main] 2021-08-20 12:32:36 INFO  com.app.Main  - Welcome aakash kasera,What you want to do?
+[main] 2021-08-20 12:32:36 INFO  com.app.Main  - 1) Search Product.
+[main] 2021-08-20 12:32:36 INFO  com.app.Main  - 2) View ordes.
+[main] 2021-08-20 12:32:36 INFO  com.app.Main  - 3) Logout.
+[main] 2021-08-20 12:32:36 INFO  com.app.Main  - Enter your choice :
+[main] 2021-08-20 12:32:38 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 12:32:38 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 12:32:38 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 12:32:38 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 12:32:38 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 12:32:38 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 12:32:38 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 12:32:43 INFO  com.app.Main  - Invalid choice...... choose a number between 1-6
+[main] 2021-08-20 12:32:43 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 12:32:43 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 12:32:43 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 12:32:43 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 12:32:43 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 12:32:43 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 12:32:43 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 12:32:51 INFO  com.app.Main  - 
+
+[main] 2021-08-20 12:32:51 ERROR com.app.dao.impl.CustomerLoginDAOImpl  - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+[main] 2021-08-20 12:32:51 INFO  com.app.Main  - view cart under construction
+[main] 2021-08-20 12:32:51 INFO  com.app.Main  - Thanks
+[main] 2021-08-20 12:32:51 INFO  com.app.Main  - Welcome to Product search (you can serch a product from various criteria from below menu)
+[main] 2021-08-20 12:32:51 INFO  com.app.Main  - 1) By Name
+[main] 2021-08-20 12:32:51 INFO  com.app.Main  - 2) By Manufacturer Name
+[main] 2021-08-20 12:32:51 INFO  com.app.Main  - 3) By Category
+[main] 2021-08-20 12:32:51 INFO  com.app.Main  - 4) Previous Menu
+[main] 2021-08-20 12:32:51 INFO  com.app.Main  - 5) View Cart
+[main] 2021-08-20 12:32:51 INFO  com.app.Main  - 6) Logout
+[main] 2021-08-20 12:37:04 INFO  com.app.Main  - Thanks
+[main] 2021-08-20 12:37:04 INFO  com.app.Main  - Under construction
+[main] 2021-08-20 12:37:04 INFO  com.app.Main  - 
+Main menu
+[main] 2021-08-20 12:37:04 INFO  com.app.Main  - 1) Login a Customer
+[main] 2021-08-20 12:37:04 INFO  com.app.Main  - 2) Login a Employee
+[main] 2021-08-20 12:37:04 INFO  com.app.Main  - 3) Register as Customer
+[main] 2021-08-20 12:37:04 INFO  com.app.Main  - 4) EXIT 
+[main] 2021-08-20 12:37:04 INFO  com.app.Main  - Please enter your choice(1-4)

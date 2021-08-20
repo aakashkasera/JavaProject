@@ -1,0 +1,249 @@
+package com.app;
+
+import com.app.model.Product;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import org.apache.log4j.Logger;
+
+import com.app.exception.BusinessException;
+import com.app.login.service.CustomerLoginService;
+import com.app.login.service.impl.CustomerLoginServiceImpl;
+import com.app.model.Customer;
+import com.app.product.service.ProductService;
+import com.app.product.service.impl.ProductServiceImpl;
+
+public class Main {
+	private static Logger log=Logger.getLogger(Main.class);
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner scanner = new Scanner(System.in);
+		log.info("Welcome to Shopping app");
+		log.info("==========================================");
+		
+		int ch=0;
+		do {
+			
+			log.info("\nMain menu");
+			log.info("1) Login a Customer");
+			log.info("2) Login a Employee");
+			log.info("3) Register as Customer");
+			log.info("4) EXIT ");
+			log.info("Please enter your choice(1-4)");
+			
+			try {
+				ch = Integer.parseInt(scanner.nextLine());
+			} catch (NumberFormatException e) {
+			}
+			
+			switch(ch) {
+			
+			case 1:
+				log.info("Enter email id:");
+				String emailId=scanner.nextLine();
+				CustomerLoginService customerLoginService=new CustomerLoginServiceImpl();
+				Boolean b=false;
+				try {
+					b = customerLoginService.isValidEmailId(emailId);
+				} catch (BusinessException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+					System.out.println(e.getMessage());
+				}
+				if(b) {
+					
+					log.info("\nEnter Password :");
+				String password=scanner.nextLine();
+				try {
+					b = customerLoginService.isValidpassword(password);
+				} catch (BusinessException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				log.info("login succssfully");
+				
+				// After login
+				Customer customer=null;
+				try {
+					customer=customerLoginService.getCustomerByEmailId(emailId);
+					if(customer!=null) log.info("Welcome "+customer.getFirstName()+" "+customer.getLastName()+",What you want to do?");
+				} catch (BusinessException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				
+				int option=0;
+				do {
+					log.info("1) Search Product.");
+					log.info("2) View ordes.");
+					log.info("3) Logout.");
+					log.info("Enter your choice :");
+					
+					try {
+					option = Integer.parseInt(scanner.nextLine());
+					} catch (NumberFormatException e) {
+						
+					}
+					switch(option) {
+					
+					case 1:
+						int ps=0;
+						
+						ProductService productService=new ProductServiceImpl();
+						
+						do {
+						log.info("Welcome to Product search (you can serch a product from various criteria from below menu)");
+						log.info("1) By Name");
+						log.info("2) By Manufacturer Name");
+						log.info("3) By Category");
+						log.info("4) Previous Menu");
+						log.info("5) View Cart");
+						log.info("6) Logout");
+						
+						try {
+							ps= Integer.parseInt(scanner.nextLine());
+							} catch (NumberFormatException e) {
+								
+							}
+						switch(ps)
+						{
+						
+						case 1:
+							
+							log.info("Enter Product Name :");
+							
+							try {
+								String name=scanner.nextLine();
+								List<Product> productList=productService.getProductByName(name);
+								if(productList!=null && productList.size()>0) {
+									
+									log.info(productList.size()+" - "+name);
+									for(Product product:productList)
+									{
+										log.info(product);
+									}
+									
+								}
+							}catch (BusinessException e) {
+								// TODO Auto-generated catch block
+								e.printStackTrace();
+							}
+							
+							log.info("by name under construction");
+							break;
+							
+						case 2:
+							
+							log.info("Enter Manufacturer Name :");
+							
+							try {
+								String manufacturerName=scanner.nextLine();
+								List<Product> productList=productService.getProductByName(manufacturerName);
+								if(productList!=null && productList.size()>0) {
+									
+									log.info(productList.size()+" - "+manufacturerName);
+									for(Product product:productList)
+									{
+										log.info(product);
+									}
+									
+								}
+							}catch (BusinessException e) {
+								// TODO Auto-generated catch block
+								e.printStackTrace();
+							}
+							
+							log.info("by manufacturerName under construction");
+							break;
+							
+						case 3:
+							
+							log.info("Enter Category :");
+							
+							try {
+								String category=scanner.nextLine();
+								List<Product> productList=productService.getProductByName(category);
+								if(productList!=null && productList.size()>0) {
+									
+									log.info(productList.size()+" - "+category);
+									for(Product product:productList)
+									{
+										log.info(product);
+									}
+									
+								}
+							}catch (BusinessException e) {
+								// TODO Auto-generated catch block
+								e.printStackTrace();
+							}
+							
+							log.info("by category under construction");
+							break;
+							
+						case 4:
+							log.info("Back to previous menu");
+							break;
+							
+						case 5:
+							log.info("view cart under construction");
+							
+						case 6:
+							option=3;
+							log.info("Thanks");
+							break;
+							
+						default:
+							log.info("Invalid choice...... choose a number between 1-6");
+							break;
+						
+						}
+						
+						}while(ps!=4 || ps!=6);
+						log.info("Search product under construction");
+						break;
+						
+					case 2:
+						log.info("View orders under construction");
+						
+					case 3:
+						log.info("Thanks");
+						break;
+						
+					default:
+						log.info("Invalid Input ..... Choose a number between 1-3");
+					
+					}
+					
+				}while(option!=3);
+				
+				
+				
+				}
+					
+				log.info("Under construction");
+				break;
+			case 2:
+				log.info("Under construction");
+				break;
+			case 3:
+				log.info("Under construction");
+				break;
+			case 4:
+				log.info("Under construction");
+				break;
+			default:
+				log.info("Invalid ..... choose only number between 1-4");;
+				break;
+			}
+			
+		}while(ch!=4);
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.app.dao;
+
+import java.sql.SQLException;
+import java.util.*;
+import com.app.exception.BusinessException;
+import com.app.model.Player;
+
+
+public interface PlayerDAO {
+	//DAO- Data Access Object it is a design pattern 
+	public List<Player> getAllPlayers() throws BusinessException;
+
+}

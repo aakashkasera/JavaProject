@@ -1,0 +1,10 @@
+package com.app.cart.service;
+
+import com.app.exception.BusinessException;
+
+public interface CartService {
+	
+	public int addProductToCart(int productId,int customerId) throws BusinessException;
+	public int deleteProductFromCart(int productId,int customerId)throws BusinessException;
+
+}

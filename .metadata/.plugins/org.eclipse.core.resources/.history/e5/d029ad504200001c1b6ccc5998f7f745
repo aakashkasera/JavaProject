@@ -1,0 +1,47 @@
+package com.app.dao.impl;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import org.apache.log4j.Logger;
+
+import com.app.dao.CustomerLoginDAO;
+import com.app.dao.dbutil.MySqlDbConnection;
+import com.app.exception.BusinessException;
+
+public class CustomerLoginDAOImpl implements CustomerLoginDAO{
+
+	private static Logger log=Logger.getLogger(CustomerLoginDAOImpl.class);
+	@Override
+	public boolean isValidEmailId(String emailId) throws BusinessException {
+		// TODO Auto-generated method stub
+		boolean b=false;
+		try(Connection connection=MySqlDbConnection.getConnection()){
+			
+			String sql="select emailId from player where emailId=?";
+			PreparedStatement preparedStatement=connection.prepareStatement(sql);
+			preparedStatement.setString(1,emailId);
+			ResultSet resultSet=preparedStatement.executeQuery();
+			if(resultSet.next()) b= true;
+			else {
+				throw new BusinessException("Customer email id"+emailId+"does not exist");
+			}
+			
+		}catch (ClassNotFoundException | SQLException e) {
+			log.error(e);
+			throw new BusinessException("Internal error occured contact sysadmin");
+		}
+		
+		return b;
+	}
+	@Override
+	public boolean isValidPassword(String password) throws BusinessException {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	
+
+}

@@ -1,0 +1,39 @@
+package com.app.dao.impl;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+import com.app.dao.CartDAO;
+import com.app.dao.dbutil.MySqlDbConnection;
+import com.app.exception.BusinessException;
+
+public class CartDAOImpl implements CartDAO{
+
+	@Override
+	public int addProductToCart(int productId, int customerId) throws BusinessException {
+		// TODO Auto-generated method stub
+		int c=0;
+		try(Connection connection=MySqlDbConnection.getConnection()){
+			
+			String sql="insert into cart(productId,customerId) values(?,?)";
+			PreparedStatement preparedStatement=connection.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
+			preparedStatement.setInt(1, productId);
+			preparedStatement.setInt(2, customerId);
+			
+		}catch (ClassNotFoundException | SQLException e) {
+			System.out.println(e);//this will be replaced by logger
+			throw new BusinessException("Internal error occured, please contact support");
+		}
+		
+		return c;
+	}
+
+	@Override
+	public int deleteProductFromCart(int productId, int customerId) throws BusinessException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
